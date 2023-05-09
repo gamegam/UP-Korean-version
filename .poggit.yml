@@ -2,5 +2,7 @@
 build-by-default: true
 branches:
 - master
-projects: []
+projects:
+ - UP-한국어 버전
+...
 ...
